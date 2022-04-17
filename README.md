@@ -1,4 +1,4 @@
-A text editor that runs in the browser. This app is a single-page Progressive Web Application (PWA). It features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline.
+A text editor that runs in the browser. This app is a single-page Progressive Web Application (PWA). It features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline. https://nkr-28.github.io/PWA-Text-Editor/
 
 ## User Story
 
